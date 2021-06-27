@@ -35,5 +35,5 @@ yarn-error.log*
 
 
 #firebase
-/.firebas
+/.firebase
 /.firebaserc
